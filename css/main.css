@@ -267,3 +267,11 @@ textarea {
   content: attr(data-name) "@" attr(data-domain) "." attr(data-tld);
 }
 
+h1 {
+  text-align: center;
+}
+
+h1 img {
+  max-width: 70%;
+}
+
