@@ -7,4 +7,4 @@ layout: "contact"
 type: "contact"
 ---
 
-Jsme otevřený kolektiv a rádi vás přivítáme na naší schůzce, nebo při jak=koliv další činnosti..
+Jsme otevřený kolektiv a rádi vás přivítáme na naší schůzce, nebo při jakékoliv další činnosti...
