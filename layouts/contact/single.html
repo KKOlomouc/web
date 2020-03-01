@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col-lg-5">
+        <h2 class="mb-4">{{ .Title | markdownify }}</h2>
+        <div class="content">{{ .Content }}</div>
+        <form method="POST" action="{{ .Site.Params.contact_form_action | safeURL}}" class="row">
+          <div class="col-md-12">
+            <label for="name">Jméno:</label>
+            <input type="text" class="form-control mb-4" name="name" id="name">
+          </div>
+          <div class="col-md-12">
+            <label for="email">E-mail:</label>
+            <input type="email" class="form-control mb-4" name="email"
+                                           id="email">
+          </div>
+          <div class="col-12">
+            <label for="subject">Předmět</label>
+            <input type="text" class="form-control mb-4" name="subject" id="subject">
+          </div>
+          <div class="col-12">
+            <label for="message">Zpráva</label>
+            <textarea name="message" id="message" class="form-control mb-4"
+              rows="5"></textarea>
+          </div>
+          <input type="hidden" name="_gotcha">
+          <div class="col-12">
+            <button class="btn btn-primary btn-block" type="submit">Odeslat</button>
+          </div>
+        </form>
+      </div>
+      <div class="col-lg-6 text-md-right">
+        <img class="img-fluid" src="{{ .Params.Image | relURL }}" alt="">
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
