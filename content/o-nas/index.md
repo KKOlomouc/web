@@ -7,12 +7,14 @@ layout: "page"
 type: "page"
 ---
 
-Klimatická koalice Olomouc je otevřené sdružení občanů a zástupců organizací usilující o řešení environmentálních problémů a ochranu životního prostředí Olomouce a okolí v podmínkách probíhající klimatické změny. Od listopadu 2019 se věnujeme tématům zmírňování lidského působení na podnebí, trvale udržitelného rozvoje a klimatické spravedlnosti.
+Klimatická koalice Olomouc (KKO) je otevřený kolektiv občanů a zástupců organizací usilující od listopadu 2019 o řešení ekologických problémů a ochranu životního prostředí v Olomouci a Olomouckém kraji. Našimi dlouhodobými cíli jsou zastavení negativního lidského působení na klima, adaptace na již nevratné změny a dosažení klimatické spravedlnosti.
 
-Zdůrazňujeme nezbytnost systémových a koncepčních, zároveň však sociálně a environmentálně citlivých opatření.K aktivnímu a zodpovědnému přístupu vyzýváme statutární město Olomouc a další vlivné aktéry v regionu jako Olomoucký kraj nebo Univerzitu Palackého Olomouc.
+Proč se organizujeme: Protože politické vedení naší obce, kraje i státu málo rozpoznává naléhavost reakce na globální klimatickou změnu. Země se ohřívá, podnebí se mění, i blízko domova pozorujeme vysychání lesů a mizení vody z krajiny. Narušení klimatických vlastností Země je vědecky dokázáno, nárůst teploty a pokles rozmanitosti přírody lze spočítat. Většinu změn způsobují lidé hlavně spalováním fosilních paliv, které zapříčiňuje kumulaci skleníkových plynů v ovzduší, a devastováním krajiny.
 
-Věříme v občanskou iniciativu a odpovědnost, vedeme dialog se zástupci veřejné správy, vyjednáváme s politiky, informujeme veřejnost, nebojíme se protestovat. Vytváříme prostor pro koordinaci a spolupráci jednotlivců i organizací působících na poli životního prostředí. Jako otevřená a nehierarchická skupina vítáme kohokoliv podobně smýšlejícího a ochotného zapojit se do naší činnosti.
+Co zdůrazňujeme: Potřebu systémových opatření, jež ale musí být sociálně a environmentálně citlivá. Vedeme dialog se zástupci veřejné správy, vyjednáváme s politiky. Usilujeme o aktivní, zodpovědný a příkladný postoj vedení statutárního města Olomouce a dalších vlivných aktérů jako Olomoucký kraj nebo Univerzita Palackého v Olomouci ve vztahu k probíhajícím změnám klimatu.
 
-Vystupujeme proti zlehčování klimatické krize a popírání vlivu člověka na podnebí. Odmítáme spolupracovat s nedemokratickými stranami a institucemi i velkými znečišťovateli životního prostředí.
+Co odmítáme: Poslouchat líbivé lži, že český člověk za nic nemůže a nic nezmění, nebo že vztah k životnímu prostředí je výhradně věcí jednotlivce. Nejde zavírat oči před katastrofickými scénáři, které nás dle vědců čekají v případě, že se nezačneme starat o Zemi. Odmítáme také spolupracovat s nedemokratickými politickými stranami a velkými znečišťovateli životního prostředí. Jsme proti zlehčování klimatické krize a považujeme za absurdní popírání vlivu člověka na podnebí.
 
-Nejsme právnickou osobou, profesní zájmovou skupinou, politickou stranou či hnutím, nepodléháme žádné straně. Nejsme ekoteroristi. Nebereme si životní prostředí za rukojmí našich soukromých ekonomických zájmů. Nejsme nikým placeni. Sdružujeme se pro dobro věci samé. Zviditelňujeme planetární problém, nikoli sebe.
+Koordinujeme proto vzájemnou podporu a spolupráci jednotlivců i organizací reagujících na změnu klimatu a ochranu životního prostředí. Jako otevřená a nehierarchická skupina vítáme kohokoliv podobně smýšlejícího a ochotného zapojit se do naší činnosti. Naše skupina zahrnuje lidi různých profesí, studenty, akademické pracovníky, umělce, politiky a odborníky na environmentální problematiku. Podporujeme občanskou iniciativu a odpovědnost.
+
+Nejsme právnickou osobou, profesní zájmovou skupinou, politickou stranou či hnutím ani nejsme podřízeni žádné straně. Nejsme nikým placeni. Zviditelňujeme globální problém, nikoli sebe.
