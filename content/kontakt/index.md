@@ -7,4 +7,13 @@ layout: "contact"
 type: "contact"
 ---
 
-Jsme otevřený kolektiv a rádi vás přivítáme na naší schůzce, nebo při jakékoliv další činnosti...
+### Naši mluvčí
+
+Informace o nás a naší činnosti vám rádi podají naši mluvčí:
+
+- Jana Fafejtová
+    - tel.č. +420 774 514 219
+- Pavel Solanský
+    - tel.č. +420 731 848 204  
+
+### Kontaktní formulář
