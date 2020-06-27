@@ -5,8 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: exampleSite/content
-  label: Post
+  path: content/posts
+  label: Aktuality
   create: documents
   match: "*"
   templates:
