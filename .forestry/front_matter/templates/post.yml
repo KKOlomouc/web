@@ -4,23 +4,28 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titulek
 - type: datetime
   name: date
-  label: date
+  label: Datum
 - type: file
   name: image
-  label: image
-- type: text
-  name: author
-  label: author
+  label: Obrázek
+  description: Obrázek pod titulkem na detailu článku
 - type: text
   name: description
-  label: description
+  label: Meta popis
+  description: Objeví se při vyhledání stránky vyhledávačem, např. Google.
 - type: list
   name: categories
-  label: categories
+  label: Kategorie
+  description: Kategorie, třeba "tiskové zprávy"
 - type: text
   name: type
   label: type
   default: post
+  hidden: true
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Galerie
