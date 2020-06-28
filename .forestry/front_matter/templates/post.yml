@@ -29,3 +29,5 @@ fields:
   type: image_gallery
   config: {}
   label: Galerie
+pages:
+- content/posts/test-prispevku-s-obrazky.md
