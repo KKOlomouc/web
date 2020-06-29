@@ -30,4 +30,5 @@ fields:
   config: {}
   label: Galerie
 pages:
+- content/posts/odpoved-magistratu-na-nase-pozadavky-neni-dostatecna.md
 - content/posts/test-prispevku-s-obrazky.md
