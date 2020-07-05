@@ -1,7 +1,7 @@
 ---
 title: "O nás"
 draft: false
-description : "this is meta description"
+description : "Čím se zabývá klimatická koalice Olomouc"
 image: "images/contact.svg"
 layout: "page"
 type: "page"

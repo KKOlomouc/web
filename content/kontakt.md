@@ -1,7 +1,7 @@
 ---
 title: "Napište nám"
 draft: false
-description : "this is meta description"
+description : "Jak kontaktovak Klimatickou koalici Olomouc"
 image: "images/contact2.svg"
 layout: "contact"
 type: "contact"
