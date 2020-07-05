@@ -12,17 +12,14 @@ sections:
   templates:
   - post
 - type: document
-  path: content/o-nas.md
+  path: content/nase-pozadavky.md
   label: Naše požadavky
-  match: "**/*"
 - type: document
   path: content/o-nas.md
   label: O nás
-  match: "**/*"
 - type: document
-  path: kontakt.md
+  path: content/kontakt.md
   label: Kontakt
-  match: "**/*"
 upload_dir: content/uploads
 public_path: "/uploads"
 front_matter_path: ''
