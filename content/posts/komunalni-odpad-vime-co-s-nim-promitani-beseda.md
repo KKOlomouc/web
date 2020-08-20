@@ -10,19 +10,18 @@ type = "post"
 +++
 Chcete se dozvědět víc o tom, jak řešit odpadovou krizi na různých úrovních? Přijďte 8.9. 2020 v 17:00 do Skautského institutu na Dolním náměstí 38.
 
-Program:
+## Program:
   
-## Promítání filmu Kryštofa Zvolánka: Mezi odpady
+### Promítání filmu Kryštofa Zvolánka: Mezi odpady
 
   
 Dokument Mezi odpady hledá skrze zaměstnance technických služeb ve Zlíně odpověď na otázku, zda mohou přijít změny v nakládání s odpady od lidí, nebo je musí připravit zákon.  
   
-## Beseda s Ing. Ivo Kropáčkem
-
+### Beseda s Ing. Ivo Kropáčkem
   
 Současná situace u nás, recyklace, likvidace, prevence vzniku odpadů, aktuální legislativní rámec v ČR i EU, možnosti řešení včetně obecní/krajské úrovně.  
   
-\## Unikátní pracovní projekce dokumentu K. Zvolánka: Shabbat Elevator  
+### Unikátní pracovní projekce dokumentu K. Zvolánka: Shabbat Elevator  
 Jaký mají k recyklaci a odpadům vztah pradávné starohebrejské myšlenky a texty, ze kterých vzešla současná euroatlantická a postupně i globální spotřební kultura?
 
 ## Vystupují
