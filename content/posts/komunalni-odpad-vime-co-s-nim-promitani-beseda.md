@@ -8,7 +8,7 @@ title = "Komunální odpad: Víme co s ním? (promítání + beseda)"
 type = "post"
 
 +++
-Chcete se dozvědět víc o tom, jak řešit odpadovou krizi na různých úrovních? Přijďte 8.9. 2020 v 17:00 do Skautského institutu na Dolním náměstí 38.
+Chcete se dozvědět víc o tom, jak řešit odpadovou krizi na různých úrovních? Přijďte 8.9. 2020 v 17:00 do Skautského institutu na Dolním náměstí 38. A pozvěte své přátele - akci najdete také na naší FB stránce: https://www.facebook.com/events/632227000763026.
 
 ## Program:
   
