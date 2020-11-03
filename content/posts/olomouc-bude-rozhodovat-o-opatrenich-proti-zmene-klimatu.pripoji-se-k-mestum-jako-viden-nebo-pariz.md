@@ -1,6 +1,6 @@
 +++
 categories = []
-date = ""
+date = 2020-11-02T23:00:00Z
 description = ""
 gallery = []
 image = ""
