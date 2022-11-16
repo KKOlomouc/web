@@ -10,22 +10,22 @@
 
       <div class="collapse navbar-collapse text-center" id="navigation">
         <ul class="navbar-nav ml-auto">
-          {{ $url := trim .URL "/" }}
+          {{ $url := trim .Permalink "/" }}
           {{ $current_permalink := trim .RelPermalink "/" }}
 
-          <li class="nav-item {{ if eq $current_permalink .URL }}active{{ end }}">
+          <li class="nav-item {{ if eq $current_permalink .Permalink }}active{{ end }}">
             <a class="nav-link" href="{{ .Site.BaseURL }}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a>
           </li>
           {{ range .Site.Menus.main }}
             {{ if .HasChildren }}
-            <li class="nav-item dropdown {{ if eq $current_permalink .URL }}active{{ end }}">
+            <li class="nav-item dropdown {{ if eq $current_permalink .Permalink }}active{{ end }}">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
                 aria-expanded="false">
                 {{ .Name }}
               </a>
               <div class="dropdown-menu">
                 {{ range .Children }}
-                <a class="dropdown-item" href="{{ .URL | absURL }}">{{ .Name }}</a>
+                <a class="dropdown-item" href="{{ .Permalink | absURL }}">{{ .Name }}</a>
                 {{ end }}
               </div>
             </li>
