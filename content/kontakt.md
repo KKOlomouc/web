@@ -7,13 +7,8 @@ layout: "contact"
 type: "contact"
 ---
 
-### Naši mluvčí
+### Kontakt
 
-Informace o nás a naší činnosti vám rádi podají naši mluvčí:
-
-- Jana Fafejtová
-    - tel.č. +420 774 514 219
-- Pavel Solanský
-    - tel.č. +420 731 848 204  
+Než nalezneme lepší způsob jak se zkontaktovat, napiště nám prosím na naší FB stránce https://www.facebook.com/klimakoaliceolomouc/
 
 ### Kontaktní formulář
